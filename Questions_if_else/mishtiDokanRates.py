@@ -1,9 +1,8 @@
 '''
-Question: Bengali Sweet Shop Discount
+Question: Mishti'r dokan Discount
 A sweet shop offers 10% discount if purchase is above ₹500. Write a program to calculate final amount after discount.
 
-Expected Output Format:
-Display original amount, discount, and final amount
+Expected Output Format: Display original amount, discount, and final amount
 '''
 
 amount = float(input("Enter purchase amount: ₹"))
